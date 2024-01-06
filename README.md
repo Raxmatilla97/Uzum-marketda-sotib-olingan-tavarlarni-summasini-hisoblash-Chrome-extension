@@ -4,7 +4,7 @@
 Ushbu kengaytma (extension) **Chrome, Yandex va Brave** brauzerlari uchun ishlab chiqilgan bo'lib, Uzum marketdagi shaxsiy akkountdagi sotib olingan tavarlarni umumiy narxini xisoblab beradi.
 
 ## Asosiy Maqsad
-Bu extension orqali siz Uzum marketdagi shaxsiy akkountingizda sotib olingan tavarlarning umumiy narxini osongina xisoblab chiqishingiz mumkin. Bu kengaytma orqali men o'zimning **11 milliondan ortiq so'm** xarajatlarimni aniqlab oldim. Tavarlar soni 100 dan ortiq bo'lgani uchun, bu kengaytma yordamida xisob-kitobni ancha oson amalga oshirish mumkin.
+Bu extension orqali siz Uzum marketdagi shaxsiy akkountingizda sotib olingan tavarlarning umumiy narxini osongina xisoblab chiqishingiz mumkin. Bu kengaytma orqali men o'zimning **11 milliondan ortiq so'm** xarajatlarimni aniqlab oldim. Tavarlar soni 100 dan ortiq bo'lgani uchun, bu kengaytma yordamida xisob-kitobni ancha oson amalga oshirish mumkin bo'ldi.
 
 ## O'rnatish
 
